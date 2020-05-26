@@ -1,0 +1,21 @@
+body {
+        background-color: rgb(217, 231, 233);
+    }
+
+    h1 {
+        border-style: dashed;
+        border-width: 3px;
+        border-left-width: 10px;
+        border-right-width: 10px;
+        border-color: rgb(219, 200, 236);
+    }
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#0a8879;
+}
+
+h3{
+    color:#31afa1;
+    
+}
