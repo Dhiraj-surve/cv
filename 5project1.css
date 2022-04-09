@@ -19,3 +19,29 @@ h3{
     color:#31afa1;
     
 }
+
+h4{
+    color:#31afa1;
+    
+}
+#work{
+  border:solid 2px;
+  border-radius: 10px;
+}
+
+#work>td{
+  border:solid 0.5px;
+  border-radius: 10px;
+}
+#work-heading{
+  text-align:center
+}
+
+.other{
+  border: 0.5px solid;
+  border-radius: 20px;
+  
+}
+.button{
+  background-color:#0093AB;
+}
